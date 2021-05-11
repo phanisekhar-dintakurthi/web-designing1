@@ -5,3 +5,4 @@ Demo project to add files in GIT
 ### -- used for Heading 3
 
 *fontstyle in italic*
+**fontstyle in bold**
