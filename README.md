@@ -6,3 +6,4 @@ Demo project to add files in GIT
 
 *fontstyle in italic*
 **fontstyle in bold**
+***fontstyle in italic and bold***
