@@ -7,3 +7,21 @@ Demo project to add files in GIT
 *fontstyle in italic*
 **fontstyle in bold**
 ***fontstyle in italic and bold***
+
+# UnOrdered List
+* Fruits
+  * Sapota
+  * Mango
+  * banana
+  * Apple
+* Vegetables
+  * Carrot
+  * Brinjal
+  * Potato 
+
+# Ordered List
+1. Alphabets
+2. Digits
+    1. Rational
+    2. Whole
+    3. Integers
