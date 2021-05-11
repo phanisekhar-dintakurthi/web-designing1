@@ -25,3 +25,6 @@ Demo project to add files in GIT
     1. Rational
     2. Whole
     3. Integers
+
+![Rama Setu](https://akm-img-a-in.tosshub.com/indiatoday/images/story/201803/ram.jpeg?my9NsRIJSKC1ZbWG4V.FJDLs6zYcXlPp&size=770:433)
+
