@@ -28,3 +28,10 @@ Demo project to add files in GIT
 
 ![Rama Setu](https://akm-img-a-in.tosshub.com/indiatoday/images/story/201803/ram.jpeg?my9NsRIJSKC1ZbWG4V.FJDLs6zYcXlPp&size=770:433)
 
+[Google](https://www.google.com/)
+
+~~~python
+def fun():
+  print("hello")
+~~~
+
