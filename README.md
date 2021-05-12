@@ -37,4 +37,4 @@ def fun():
 
 Table 1 | Table 2
 --------|----------
-Table1 body | table2 body
+Table1 body | Table2 body
